@@ -1,0 +1,54 @@
+::-webkit-scrollbar{
+    background-color: #a5dcf0;
+
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(248, 66, 42)
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color: #ec1c23;
+}
+.btn-outline-success-modify {
+    color: #ffffff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-outline-success-modify:hover {
+color: #007bff;
+background-color: transparent;
+background-image: none;
+border-color: #007bff;
+}
+.all_products_pagination{
+    margin: 0 auto;
+}
+
+body{
+    background-color: rgb(243, 243, 243);
+    height: 1200px;
+}
+.modfiy-center{
+    margin: 0 auto;  
+}
+.profile-imgg{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.profile-img{
+    width: 290px;
+    height: 100%;
+}
+.review-img{
+    width: 150px;
+    height: 150px;
+}
+.info{
+    display: block;
+    text-align: center;
+}
+.order-bold{
+    font-weight: 400;
+    font-size: 17px;
+}
